@@ -1,0 +1,32 @@
+This script fixes the Egyptian numbers in your address book by adding an extra digit to comply with new regulations 
+The scripts adds a new phone numbes and leaves the old number intact ( this is important to maintain your sms history) 
+
+The new digits will be according to the following rules 
+
+Mobinil
+012 xxx xxxx  -> 0122 xxx xxxx
+017 xxx xxxx  -> 0127 xxx xxxx
+018 xxx xxxx  -> 0128 xxx xxxx
+0150 xxx xxxx -> 0120 xxx xxxx
+
+
+Etisalat 
+011 xxx xxxx  -> 0111 xxx xxxx
+014 xxx xxxx  -> 0114 xxx xxxx
+0152 xxx xxxx -> 0112 xxx xxxx
+
+Vodafone 
+010 xxx xxxx  -> 0100 xxx xxxx
+016 xxx xxxx  -> 0106 xxx xxxx
+019 xxx xxxx  -> 0109 xxx xxxx
+0151 xxx xxxx -> 0101 xxx xxxx
+
+to run the script
+1- Open the address book 
+2- Select the contacts you want to update 
+3- Run the script
+
+
+
+
+
